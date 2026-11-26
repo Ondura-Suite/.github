@@ -10,6 +10,7 @@
 
 <p align="center">
   <a href="https://ondura.mirranet.de"><b>ondura.mirranet.de</b></a> ·
+  <a href="https://apps.microsoft.com/detail/9nzhmbcz0v85">Microsoft Store</a> ·
   <a href="https://github.com/Ondura-Suite/Ondura-Core/releases/latest">Download</a> ·
   <a href="https://github.com/Ondura-Suite/Ondura-Core/issues">Report an issue</a>
 </p>
@@ -32,7 +33,7 @@ Ondura opens and saves `.docx`, `.xlsx` and `.pptx` files as well as OpenDocumen
 | <img src="https://raw.githubusercontent.com/Ondura-Suite/Ondura-Core/main/apps/ondura/public/diagram.svg" width="20"> **Ondura Diagrams** | Flowcharts, org charts and network plans, saved as `.drawio` |
 | <img src="https://raw.githubusercontent.com/Ondura-Suite/Ondura-Core/main/apps/ondura/public/forms.svg" width="20"> **Ondura Forms** | Surveys, sign-ups and polls with charts of the answers – no server needed |
 
-Installers for Windows 10/11, macOS 11 or later (`.dmg`) and Linux (`.deb`, `.rpm`, `.AppImage`) are on the [releases page](https://github.com/Ondura-Suite/Ondura-Core/releases). Ondura keeps itself up to date.
+On Windows, get Ondura from the [Microsoft Store](https://apps.microsoft.com/detail/9nzhmbcz0v85). Installers for Windows 10/11, macOS 11 or later (`.dmg`) and Linux (`.deb`, `.rpm`, `.AppImage`) are on the [releases page](https://github.com/Ondura-Suite/Ondura-Core/releases). Ondura keeps itself up to date.
 
 **Ondura Server** – mail, calendars, contacts and tasks for your own domain in one program. Phones, tablets and Ondura Mail connect with Exchange ActiveSync, EWS, IMAP or POP3, and it comes with webmail, an Admin Center in the browser and real-time shared documents with guest links – each of them can be switched off. Packages for Debian 12+ and Ubuntu 22.04+ are on the [server releases page](https://github.com/Ondura-Suite/Ondura-Server/releases).
 
@@ -46,4 +47,4 @@ Installers for Windows 10/11, macOS 11 or later (`.dmg`) and Linux (`.deb`, `.rp
 
 Built by [MirraNET](https://mirranet.de). The Ondura apps are free software under the GPL-3.0, Ondura Server under the AGPL-3.0.
 
-<sub>Ondura is an independent product. It is not affiliated with, endorsed or sponsored by Microsoft or Apple. Microsoft 365, Outlook, Exchange, ActiveSync, OneDrive, SharePoint, OneNote and Planner are trademarks of the Microsoft group of companies; macOS is a trademark of Apple Inc.</sub>
+<sub>Ondura is an independent product. It is not affiliated with, endorsed or sponsored by Microsoft or Apple. Microsoft 365, Outlook, Exchange, ActiveSync, OneDrive, SharePoint, OneNote, Planner and Microsoft Store are trademarks of the Microsoft group of companies; macOS is a trademark of Apple Inc.</sub>
