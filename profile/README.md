@@ -5,7 +5,7 @@
 <h1 align="center">Ondura</h1>
 
 <p align="center">
-  The office suite for Windows, macOS and Linux, with Ondura Mail on Android and Ondura Server for your own domain – mail, documents, spreadsheets, presentations, PDFs, notes, plans, diagrams and forms.
+  The office suite for Windows, macOS and Linux, with Ondura Server for your own domain – mail, documents, spreadsheets, presentations, PDFs, notes, plans, diagrams and forms.
 </p>
 
 <p align="center">
@@ -34,19 +34,16 @@ Ondura opens and saves `.docx`, `.xlsx` and `.pptx` files as well as OpenDocumen
 
 Installers for Windows 10/11, macOS 11 or later (`.dmg`) and Linux (`.deb`, `.rpm`, `.AppImage`) are on the [releases page](https://github.com/Ondura-Suite/Ondura-Core/releases). Ondura keeps itself up to date.
 
-**Ondura Mail for Android** – your Microsoft 365, Exchange and IMAP mailboxes on the phone, with the same mail engine as the desktop app. The APK for Android 8.0 or later is on the [Android releases page](https://github.com/Ondura-Suite/Ondura-Android/releases).
-
-**Ondura Server** – mail, calendars, contacts and tasks for your own domain in one program. Phones, tablets and Ondura Mail connect with Exchange ActiveSync and EWS, and it comes with webmail, an Admin Center in the browser and real-time shared documents – each of them can be switched off. Packages for Debian 12+ and Ubuntu 22.04+ are on the [server releases page](https://github.com/Ondura-Suite/Ondura-Server/releases).
+**Ondura Server** – mail, calendars, contacts and tasks for your own domain in one program. Phones, tablets and Ondura Mail connect with Exchange ActiveSync, EWS, IMAP or POP3, and it comes with webmail, an Admin Center in the browser and real-time shared documents with guest links – each of them can be switched off. Packages for Debian 12+ and Ubuntu 22.04+ are on the [server releases page](https://github.com/Ondura-Suite/Ondura-Server/releases).
 
 ## Repositories
 
 | Repository | Contents |
 | --- | --- |
 | [**Ondura-Core**](https://github.com/Ondura-Suite/Ondura-Core) | The desktop apps, the installer and their documentation |
-| [**Ondura-Android**](https://github.com/Ondura-Suite/Ondura-Android) | Ondura Mail for Android |
 | [**Ondura-Server**](https://github.com/Ondura-Suite/Ondura-Server) | Mail, calendar and collaboration server (AGPL-3.0) |
 | [**Ondura-Website**](https://github.com/Ondura-Suite/Ondura-Website) | The product page at [ondura.mirranet.de](https://ondura.mirranet.de) |
 
 Built by [MirraNET](https://mirranet.de). The Ondura apps are free software under the GPL-3.0, Ondura Server under the AGPL-3.0.
 
-<sub>Ondura is an independent product. It is not affiliated with, endorsed or sponsored by Microsoft, Apple or Google. Microsoft 365, Outlook, Exchange, ActiveSync, OneDrive, SharePoint, OneNote and Planner are trademarks of the Microsoft group of companies; macOS, iPhone and iPad are trademarks of Apple Inc.; Android is a trademark of Google LLC.</sub>
+<sub>Ondura is an independent product. It is not affiliated with, endorsed or sponsored by Microsoft or Apple. Microsoft 365, Outlook, Exchange, ActiveSync, OneDrive, SharePoint, OneNote and Planner are trademarks of the Microsoft group of companies; macOS is a trademark of Apple Inc.</sub>
